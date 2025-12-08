@@ -5,11 +5,15 @@
 
 
 
-marrege are not good 
-
-
-
-
+"I have been tasked with creating a strategy document outlining a comprehensive DevOps workflow for our development team.
+Please provide a detailed, structured referral strategy document template or a comprehensive example that covers key areas, including:
+Continuous Integration (CI): Code committed, automated build, testing, and feedback loops.
+Continuous Delivery/Deployment (CD): Automated deployment to staging and production environments.
+Infrastructure as Code (IaC): Management and provisioning of infrastructure through code.
+Monitoring & Logging: Tools and processes for observing application performance and health.
+Collaboration & Culture: How teams will work together and the cultural shifts required.
+Tools & Technology Stack: Recommended tools (e.g., Jenkins, GitHub Actions, Kubernetes, Prometheus).
+Security (DevSecOps): Integrating security practices throughout the pipeline.
 
 
 IS@DESKTOP-PABRKQE MINGW64 ~/Desktop/Mahi/Docker-Zero-to-Hero (main) $ git push origin main To github.com:PMahendra-MS/Docker-Zero-to-Hero.git ! [rejected] main -> main (fetch first) error: failed to push some refs to 'github.com:PMahendra-MS/Docker-Zero-to-Hero.git' hint: Updates were rejected because the remote contains work that you do not hint: have locally. This is usually caused by another repository pushing to hint: the same ref. If you want to integrate the remote changes, use hint: 'git pull' before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details.
