@@ -13,7 +13,8 @@ Infrastructure as Code (IaC): Management and provisioning of infrastructure thro
 Monitoring & Logging: Tools and processes for observing application performance and health.
 Collaboration & Culture: How teams will work together and the cultural shifts required.
 Tools & Technology Stack: Recommended tools (e.g., Jenkins, GitHub Actions, Kubernetes, Prometheus).
-Security (DevSecOps): Integrating security practices throughout the pipeline.
+Security (DevSecOps): Integrating security practices throughout the pipeline
+.
 
 
 IS@DESKTOP-PABRKQE MINGW64 ~/Desktop/Mahi/Docker-Zero-to-Hero (main) $ git push origin main To github.com:PMahendra-MS/Docker-Zero-to-Hero.git ! [rejected] main -> main (fetch first) error: failed to push some refs to 'github.com:PMahendra-MS/Docker-Zero-to-Hero.git' hint: Updates were rejected because the remote contains work that you do not hint: have locally. This is usually caused by another repository pushing to hint: the same ref. If you want to integrate the remote changes, use hint: 'git pull' before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details.
@@ -24,3 +25,18 @@ jjchefh iuhfuiewf iuhfsdnc iupFELW  IPS7FB PUSUFIHEW PS8UOFEWBJ pia3jlnipasd ADI
 IJIJ  IHAYUDhaf pUHSADf OSAYDOf jisah asuiWF ajiwd HSAUHUSd jlJANSLs SAJIs oiSAUNDsa ;JSKDSAsda
 
 ihl jsiuahiwe whuhdgfw jsaliudhD jsadliuhID HJDHNjIS@DESKTOP-PABRKQE MINGW64 ~/Desktop/Mahi/Docker-Zero-to-Hero (main) $ git push origin main To github.com:PMahendra-MS/Docker-Zero-to-Hero.git ! [rejected] main -> main (fetch first) error: failed to push some refs to 'github.com:PMahendra-MS/Docker-Zero-to-Hero.git' hint: Updates were rejected because the remote contains work that you do not hint: have locally. This is usually caused by another repository pushing to hint: the same ref. If you want to integrate the remote changes, use hint: 'git pull' before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details.hue jSLUCHIE 
+
+
+avathar concenterate the cerear please motivate your self belf of the eniviranment 
+
+this is the last management information 
+
+the planning intraduse the cloustar information 
+
+
+important changes chenges need for your information do that i can help you the qunty of management platform 
+
+|||  need to discussees with bash about this changes 
+
+
+
