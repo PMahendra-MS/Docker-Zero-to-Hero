@@ -1,0 +1,17 @@
+
+
+ a b c d e f g h i j k l m n o p q r s t u v w x y z 
+
+Motivated Computer Science graduate with a strong foundation in programming, databases, and networking concepts. 
+Certified in Python and Cisco IT Essentials, with hands-on academic project experience and a keen 
+interest in DevOps, automation, and modern software engineering practices. 
+Seeking an entry-level role where I can contribute, learn, and grow in a collaborative technical environment.
+
+
+
+Kubernetes is an open-source container orchestration platform that automates deployment, 
+scaling, networking, and management of containerized applications across a cluster of machines.
+
+
+
+
