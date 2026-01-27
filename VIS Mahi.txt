@@ -40,3 +40,16 @@ important changes chenges need for your information do that i can help you the q
 
 
 
+The server allows ONLY key-based login, but:
+
+PuTTY is not sending a valid key, OR
+
+You are using the wrong username, OR
+
+The key does not match the server
+
+So the server rejects the login.
+
+
+
+
