@@ -1,3 +1,4 @@
+python manage.py migrate
 FROM ubuntu
 
 WORKDIR /app
